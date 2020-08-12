@@ -1,8 +1,6 @@
 # Udacity-Data-Visualization
-# hello
-    # (Ford GoBike System Data in 2019)
-## by (by Mahyar Khatirinejad)
 
+## by (by Mahyar Khatirinejad)
 
 ## Dataset
 
